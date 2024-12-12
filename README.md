@@ -2,7 +2,7 @@
 
 Welcome to the _Dice Roll Action Generating Operational Network (DRAGON)._
 The project was completed by Shawn Bray, Josh Li, and Reece Robertson in fulfillment of the course requirements for Dr. Lara Martin's _CMSC 691---Interactive Fiction and Text Generation_ at the University of Maryland, Baltimore County.
-A complete demonstration video for this project can be found at: TODO.
+A complete demonstration video for this project can be found at: [https://umbc.webex.com/umbc/ldr.php?RCID=3fa1cc86aa42eb0f334fae3eef62663a](https://umbc.webex.com/umbc/ldr.php?RCID=3fa1cc86aa42eb0f334fae3eef62663a).
 
 ## Introduction
 
@@ -13,6 +13,10 @@ This document outlines the requirements and setup required to run DRAGON, and th
 Following this is a discussion of the **LAMBEQ Score**, a novel method of natural language sentence similarity evaluation using the [Quantinuum Lambeq](https://cqcl.github.io/lambeq-docs/) Python package.
 The LAMBEQ score leverages quantum states for its comparison, and represents an exciting foray into quantum natural language processing.
 Finally, this document concludes with a project status statement.
+
+### LLM Use Statement
+We did not use an LLM to generate any part of our code files, our report file, or this document.
+We do use the Llama 2 LLM to generate response descriptions to player actions.
 
 ## Requirements
 
