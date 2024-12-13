@@ -54,51 +54,66 @@ The following section presents an example of gameplay.
 ## Example Gameplay
 
 > Welcome to the AI Generated Adventure!
-> 
+
 > Your situation: You are creating an interactive fiction game. Describe the initial setting and situation the player finds themselves in. Keep it to 2-3 sentences.
-> 
-> The player finds themselves in a dense forest, surrounded by tall trees that block out most of the sunlight. The air is cool and damp, and the only sounds are the distant chirping of birds and the rustling of leaves in the wind. As they look around, they notice that the forest is eerily quiet, and they can't shake the feeling that they are being watched.
-> 
+
+> The player finds themselves in a small village nestled in the heart of a dense forest. The village is surrounded by towering trees, their branches stretching towards the sky like bony fingers. The air is crisp and clean, filled with the sweet scent of blooming wildflowers. As the player looks around, they notice the villagers going about their daily routines, their faces etched with worry and fear.
+
 > What would you like to do? (type 'quit' to end)
-> 
-> \> I light a torch and throw it into a clearing to draw attention away from me.
-> 
-> \[DICE ROLL: 8\]
-> 
-> Your torch illuminates a small clearing, and you notice a figure hiding behind a nearby tree. The figure is holding a crude weapon, and it looks like they are preparing to attack.
-> 
-> Target:		 Your torch illuminates a small clearing,
-> 
-> Hypothesis:	 Your action was a slight failure.
-> 
-> BLEU:		   0.6875
->
-> ROUGE:		 0.3333333333333333
->
-> LAMBEQ:		 0.9871439344010786
->
+> Your action was a critical success.
+
+> [DICE ROLL: 1]
+
+> The player discovers a hidden entrance to a secret underground cave system. The entrance is hidden behind a waterfall, and the player must use their quick reflexes to avoid the falling water and reach the cave. Once inside, the player finds themselves in a vast network of tunnels and chambers filled with ancient artifacts and mysterious symbols.
+
+> What do you want to do next?
+> Target:		 The player discovers a hidden entrance
+> Hypothesis:	 Your action was a critical failure.
+> BLEU:		 0.3333333333333333
+> ROUGE:		 0.16666666666666666
+> LAMBEQ:		 -1.0
+
 > What would you like to do? (type 'quit' to end)
-> 
-> \> I open a portal to the ethereal dimension and shove the attacker through it.
-> 
-> \[DICE ROLL: 19\]
-> 
-> Your action was a critical success. The attacker is sucked into the ethereal dimension, leaving you momentarily vulnerable but relieved that the immediate threat has been neutralized. However, you know that the attacker may still be able to return to the material plane through other means, and you must remain vigilant to prevent any further attacks. Your familiar, who had been watching the scene unfold, now approaches you and informs you that it has discovered a hidden entrance to a secret underground network. The entrance is located deep within the nearby forest, and your familiar offers to lead you to it in exchange for a favor.
->
-> Target:		 Your action was a critical success.
->
-> Hypothesis:	 Your action was a major success.
->
-> BLEU:		   0.8375
->
-> ROUGE:		 0.8333333333333334
->
-> LAMBEQ:		 0.9751956246432688
-> 
+> Your action was a major success.
+
+> [DICE ROLL: 15]
+
+> You find yourself in a dark and ominous cave, the air thick with the scent of damp stone and mold. The sound of dripping water echoes through the cavern, and you can hear the distant howling of wolves. You notice a faint light in the distance, and you realize that it must be coming from a nearby torch. You can choose to follow the light and see where it leads, or you can decide to explore the cave further and see what other secrets it holds. What do you want to do next?
+> Target:		 You find yourself in a dark
+> Hypothesis:	 Your action was a regular success.
+> BLEU:		 0.2599206349206349
+> ROUGE:		 0.16666666666666666
+> LAMBEQ:		 1.0
+
 > What would you like to do? (type 'quit' to end)
->
-> \> quit
-> 
+> Your action was a slight success.
+
+> [DICE ROLL: 2]
+
+> You manage to find the hidden entrance to the underground cave system, and you discover a hidden chamber filled with ancient artifacts and mysterious symbols. You notice a strange glow emanating from the walls, and you realize that the chamber must be filled with magical energy. As you explore the chamber further, you hear a faint whispering in the distance, and you realize that you are not alone in the cave. A group of goblins has discovered your presence, and they are closing in on you. What do you want to do next?
+> Target:		 You manage to find the hidden
+> Hypothesis:	 Your action was a major failure.
+> BLEU:		 0.2222222222222222
+> ROUGE:		 0.011121
+> LAMBEQ:		 -1.0
+
+What would you like to do? (type 'quit' to end)
+> Your action was a moderate failure.
+
+> [DICE ROLL: 20]
+
+> The goblins suddenly appear from the shadows, brandishing crude weapons and snarling with ferocity. They outnumber you and are closing in fast, their eyes gleaming with malice. You realize that you must act quickly to avoid being overwhelmed. You can choose to fight the goblins head-on, or you can try to retreat and find a better defensive position. What do you want to do next?
+
+> Please provide your response.
+> Target:		 The goblins suddenly appear from the
+> Hypothesis:	 Your action was a critical success.
+> BLEU:		 0.3472222222222222
+> ROUGE:		 0.0
+> LAMBEQ:		 -1.0
+
+> What would you like to do? (type 'quit' to end)
+> quit
+
 > Thanks for playing!
 
 ## LAMBEQ Score
