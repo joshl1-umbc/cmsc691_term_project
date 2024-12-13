@@ -140,24 +140,23 @@ What would you like to do? (type 'quit' to end)
 
 > Thanks for playing!
 >
-> Generating circuit for the final target..
 >
 
 ![Target](pics/circuit1.png)
 
-*Figure 1: Generated circuit from final target*
+*Figure 1: Generated circuit for final target*
 
 Target Circuit Performance Metrics: {'gate_depth': 41, 'gate_count': 180, 'execution_time_estimate': '18 ms'}
 >
-> Generating circuit for the final hypothesis..
 >
->![Hypothesis](pics/circuit2.png)
 
-*Figure 2: Generated circuit from final hypoyhesis*
+![Hypothesis](pics/circuit2.png)
+
+*Figure 2: Generated circuit for final hypoyhesis*
 
 Hypothesis Circuit Performance Metrics: {'gate_depth': 33, 'gate_count': 86, 'execution_time_estimate': '8.6 ms'}
 > 
-> Comparison of Circuit Performance Metrics:
+Comparison of Circuit Performance Metrics:
 > 
 > gate_depth_difference: 8
 > 
