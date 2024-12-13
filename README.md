@@ -1,7 +1,6 @@
 # Dice Roll Action Generating Operational Network
 
-Welcome to the _Dice Roll Action Generating Operational Network (DRAGON)._
-The project was completed by Shawn Bray, Josh Li, and Reece Robertson in fulfillment of the course requirements for Dr. Lara Martin's _CMSC 691—Interactive Fiction and Text Generation_ at the University of Maryland, Baltimore County.
+Dr. Lara Martin's _CMSC 691—Interactive Fiction and Text Generation_ at the University of Maryland, Baltimore County.
 
 ## Requirements
 
