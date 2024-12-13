@@ -18,13 +18,7 @@ That completed, scroll down to the end of the notebook to find the section entit
 Wait for this cell to execute, and then enjoy!
 
 ## Usage Instructions
-Gameplay in DRAGON consists of a series of turns.
-First, the DRAGON will query Meta's Llama 2 model to generate some text.
-On the first turn, this will be a brief description of the fantasy world in which the player now finds themself.
-On subsequent turns, this will be a brief description of the effect of the prior turn's action.
-
-Following DRAGON's prompt, the player may then type a natural language sentence to describe their desired action.
-DRAGON will augment this text description with a randomly generated dice roll result, and prompt the Llama 2 model to generate a description for the resulting action.
+The game will augment this text description with a randomly generated dice roll result, and prompt the Llama 2 model to generate a description for the resulting action.
 The model is instructed to generate a two-part output: first, there should be a six-word sentence describing the success or failure value of the action, and second, there should follow a 2-3 sentence natural language description of the action result.
 The first sentence is then compared to a success/failure sentence hypothesis given the dice result.
 This comparison is made using the [BLEU](https://www.nltk.org/api/nltk.translate.bleu_score.html) score, the [ROGUE](https://pypi.org/project/rouge-score/) score, and a evaluation metric called the LAMBEQ score, which is described below in the **LAMBEQ Score** section.
