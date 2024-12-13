@@ -139,6 +139,24 @@ What would you like to do? (type 'quit' to end)
 > quit
 
 > Thanks for playing!
+>
+> Generating circuit for the final target..
+>
+> Target Circuit Performance Metrics: {'gate_depth': 41, 'gate_count': 180, 'execution_time_estimate': '18 ms'}
+>
+> Generating circuit for the final hypothesis..
+>
+> Hypothesis Circuit Performance Metrics: {'gate_depth': 33, 'gate_count': 86, 'execution_time_estimate': '8.6 ms'}
+> 
+> Comparison of Circuit Performance Metrics:
+> 
+> gate_depth_difference: 8
+> 
+> gate_count_difference: 94
+> 
+> execution_time_difference (ms): 9.4
+> 
+
 
 ## LAMBEQ Score
 
