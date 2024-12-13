@@ -66,38 +66,56 @@ The following section presents an example of gameplay.
 
 > The player discovers a hidden entrance to a secret underground cave system. The entrance is hidden behind a waterfall, and the player must use their quick reflexes to avoid the falling water and reach the cave. Once inside, the player finds themselves in a vast network of tunnels and chambers filled with ancient artifacts and mysterious symbols.
 
-> What do you want to do next?
+> \> What do you want to do next?
+> 
 > Target:		 The player discovers a hidden entrance
+> 
 > Hypothesis:	 Your action was a critical failure.
+> 
 > BLEU:		 0.3333333333333333
+> 
 > ROUGE:		 0.16666666666666666
+> 
 > LAMBEQ:		 -1.0
 
-> What would you like to do? (type 'quit' to end)
+> \> What would you like to do? (type 'quit' to end)
+> 
 > Your action was a major success.
 
 > [DICE ROLL: 15]
 
 > You find yourself in a dark and ominous cave, the air thick with the scent of damp stone and mold. The sound of dripping water echoes through the cavern, and you can hear the distant howling of wolves. You notice a faint light in the distance, and you realize that it must be coming from a nearby torch. You can choose to follow the light and see where it leads, or you can decide to explore the cave further and see what other secrets it holds. What do you want to do next?
+> 
 > Target:		 You find yourself in a dark
+> 
 > Hypothesis:	 Your action was a regular success.
+> 
 > BLEU:		 0.2599206349206349
+> 
 > ROUGE:		 0.16666666666666666
+> 
 > LAMBEQ:		 1.0
 
 > What would you like to do? (type 'quit' to end)
+> 
 > Your action was a slight success.
 
 > [DICE ROLL: 2]
 
 > You manage to find the hidden entrance to the underground cave system, and you discover a hidden chamber filled with ancient artifacts and mysterious symbols. You notice a strange glow emanating from the walls, and you realize that the chamber must be filled with magical energy. As you explore the chamber further, you hear a faint whispering in the distance, and you realize that you are not alone in the cave. A group of goblins has discovered your presence, and they are closing in on you. What do you want to do next?
+> 
 > Target:		 You manage to find the hidden
+> 
 > Hypothesis:	 Your action was a major failure.
+> 
 > BLEU:		 0.2222222222222222
+> 
 > ROUGE:		 0.011121
+> 
 > LAMBEQ:		 -1.0
 
 What would you like to do? (type 'quit' to end)
+
 > Your action was a moderate failure.
 
 > [DICE ROLL: 20]
@@ -105,13 +123,19 @@ What would you like to do? (type 'quit' to end)
 > The goblins suddenly appear from the shadows, brandishing crude weapons and snarling with ferocity. They outnumber you and are closing in fast, their eyes gleaming with malice. You realize that you must act quickly to avoid being overwhelmed. You can choose to fight the goblins head-on, or you can try to retreat and find a better defensive position. What do you want to do next?
 
 > Please provide your response.
+> 
 > Target:		 The goblins suddenly appear from the
+> 
 > Hypothesis:	 Your action was a critical success.
+> 
 > BLEU:		 0.3472222222222222
+> 
 > ROUGE:		 0.0
+> 
 > LAMBEQ:		 -1.0
 
 > What would you like to do? (type 'quit' to end)
+> 
 > quit
 
 > Thanks for playing!
