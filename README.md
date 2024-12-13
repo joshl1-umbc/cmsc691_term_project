@@ -142,6 +142,7 @@ What would you like to do? (type 'quit' to end)
 >
 >
 
+## Results
 ![Target](pics/circuit1.png)
 
 *Figure 1: Generated circuit for final target*
@@ -155,7 +156,10 @@ Target Circuit Performance Metrics: {'gate_depth': 41, 'gate_count': 180, 'execu
 *Figure 2: Generated circuit for final hypoyhesis*
 
 Hypothesis Circuit Performance Metrics: {'gate_depth': 33, 'gate_count': 86, 'execution_time_estimate': '8.6 ms'}
-> 
+>
+
+## Evaluation Comparison
+
 Comparison of Circuit Performance Metrics:
 > 
 > gate_depth_difference: 8
