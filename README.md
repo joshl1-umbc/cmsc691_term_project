@@ -28,6 +28,7 @@ In order to access this model, one wishing to run our system must complete the f
 ## Setup Instructions
 
 For best results we recommend uploading a copy of `final_project.ipynb` to [Google Colab](https://colab.research.google.com/).
+To see Shawn's version of the project, you can upload a version of `shawn_final_project.ipynb` instead.
 Then select `Runtime->Run All` to execute all cells of the notebook.
 In the first cell you will be propted to input the Hugging Face access token you generated in the second step of the **Requirements** section.
 Following this you will be prompted to `Add token as a git credential? (Y/n)`,to which you can reply with `n`.
