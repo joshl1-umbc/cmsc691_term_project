@@ -11,7 +11,7 @@ In order to access this model, one wishing to run our system must complete the f
 2. In your [token settings](https://huggingface.co/settings/tokens), generate an access token with write permissions. 
 
 ## Setup Instructions
-upload a version of `Shawns_final_project.ipynb` instead.
+Use the upload code named `Shawns_final_project.ipynb` .
 Then select `Runtime->Run All` to execute all cells of the notebook.
 In the first cell you will be propted to input the Hugging Face access token you generated in the second step of the **Requirements** section.
 Following this you will be prompted to `Add token as a git credential? (Y/n)`,to which you can reply with `n`.
